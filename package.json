@@ -1,0 +1,23 @@
+{
+  "name": "mailchimp-api-wherewolf",
+  "version": "1.0.0",
+  "description": "Wherewolf fork of mailchimp-api - reduce impact of singleton when using multiple API keys",
+  "main": "mailchimp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WherewolfNZ/mailchimp-api-wherewolf.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "api"
+  ],
+  "author": "Wulf Solter <wulf@wulf.co.nz> (http://wulf.co.nz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WherewolfNZ/mailchimp-api-wherewolf/issues"
+  },
+  "homepage": "https://github.com/WherewolfNZ/mailchimp-api-wherewolf#readme"
+}
